@@ -1,0 +1,337 @@
+/* // X-Small devices (portrait phones, less than 576px) */
+/* // No media query for `xs` since this is the default in Bootstrap */
+@media (min-width: 320px) and (max-width: 575px) 
+{
+    
+
+ }
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px)
+
+{ 
+
+    .sitebar_imge img {
+        height: 119px;
+    }
+
+    .item_text h2 {
+        font-size: 13px;
+    }
+
+    .item_text h4 {
+        font-size: 12px;
+    }
+
+    .text_itemi h4 {
+        margin-top: -31px;
+    }
+
+    .text_itemi h5 {
+        margin-top: -31px;
+    }
+
+    .Extra h4 {
+        font-size: 11px;
+       
+    }
+
+    .center_text h2 {
+        font-size: 9px;
+        line-height: 21.33px;
+    }
+
+    .center_text p {
+        font-size: 7px;
+    }
+
+    .center_text a {
+        font-size: 5px;
+    }
+
+    .center_photo {
+        width: 93.72px;
+        margin-top: 337px;
+    }
+
+    .service p {
+        font-size: 11px;
+    }
+
+    .Price p {
+        font-size: 13px;
+    }
+
+    .recommendations p {
+        font-size: 13px;
+    }
+
+    .item_photo img {
+        margin-top: 20px;
+    }
+
+
+
+
+    
+    
+    }
+
+
+
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px)
+ { 
+
+    .sitebar_imge img {
+        height: 166px;
+    }
+
+    .text_area h5 {
+        font-size: 12px;
+}
+
+.Extra h4 {
+    font-size: 13px;
+}
+
+.Extra img {
+    padding-top: 8px;
+    padding-bottom: 16px;
+}
+
+.item_button a {
+    padding: 12px 26px;
+}
+
+.center_text h2 {
+    font-size: 16px;
+    line-height: 26.33px;
+}
+
+.center_text p {
+    font-size: 12px;
+}
+
+.center_text a {
+    font-size: 14px;
+}
+
+.center_photo {
+    width: 150.72px;
+    margin-top: 255px;
+}
+
+.israt  h4 {
+    font-size: 10px;
+}
+
+.Price-item span {
+    font-size: 6px;
+}
+
+.gold_item span {
+    font-size: 7px;
+}
+
+.button-text-center a {
+    padding: 15px 10px;
+}
+
+.gold_item h4 {
+    font-size: 38px;
+   
+}
+
+.Price-item p {
+    font-size: 11px;
+   
+}
+
+.tofiq h5 {
+    font-size: 4px;
+}
+
+.mehedi h4 {
+    font-size: 8px;
+}
+
+.item a {
+    font-size: 4px;
+}
+
+.logo_text h5 {
+    font-size: 6px;
+}
+
+.logo_text a i {
+    font-size: 4px;
+}
+
+.leave_text h4 {
+    font-size: 20px;
+}
+
+.recommendations-item img {
+    margin-right: -1px;
+}
+
+.recommendations-item h4 {
+    font-size: 16px;
+}
+
+.table h5 {
+    font-size: 17px;
+}
+
+.location_item h5 {
+    font-size: 7px;
+}
+
+.location_item h6 {
+    font-size: 10px;
+}
+
+.location h5 {
+    font-size: 13px;
+}
+
+.location h5 {
+    font-size: 7px;
+}
+
+.location_item h6 {
+    font-size: 5px;
+}
+
+.location h6 {
+    font-size: 10px;
+    
+}
+
+.text_home a {
+    padding: 5px 5px;
+   
+}
+
+.piramid {
+    height: 15px;
+    width: 12px;
+    top: 77%;
+    left: 44%;
+}
+
+}
+
+
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) 
+{ 
+
+    .sitebar_imge img {
+        height: 226px;
+    }
+
+    .Extra img {
+        padding-top: 4px;
+        padding-bottom: 7px;
+    }
+
+    .item_button a {
+        padding: 7px 50px;
+        margin-left: 7%;
+    }
+
+    .center_text h2 {
+        font-size: 19px;
+        line-height: 30.33px;
+    }
+
+
+    .center_photo {
+        width: 215.72px;
+        margin-top: 164px;
+    }
+
+    .israt  h4 {
+        font-size: 13px;
+    }
+
+    .Price-item span {
+        font-size: 11px
+    }
+
+    .gold_item span {
+        font-size: 12px;
+    }
+
+    .button-text-center a {
+        font-size: 11px;
+    }
+
+    .mehedi h4 {
+        font-size: 11px;
+    }
+
+    .tofiq h5 {
+        font-size: 7px;
+    }
+
+    .item a {
+        font-size: 10px;
+    }
+
+    .text_img h4 {
+        font-size: 12px;
+    }
+
+    .logo_text h5 {
+        font-size: 10px;
+       
+    }
+
+    .leave_text h4 {
+        font-size: 27px;
+    }
+
+    .recommendations-item img {
+        margin-right: 9px;
+    }
+
+    .location_item h5 {
+        font-size: 10px;
+    }
+
+    .location_item h6 {
+        font-size: 11px;
+    }
+    
+    .location h5 {
+        padding-top: 23px;
+        font-size: 11px;
+    }
+
+    .location h6 {
+        padding-top: 15px;
+        font-size: 10px;
+    }
+
+    .location_item h5 {
+        font-size: 7px;
+    }
+
+    .location_item h6 {
+        font-size: 8px;
+    }
+
+    
+
+
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399px) { ... }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { ... }
